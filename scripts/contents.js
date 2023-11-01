@@ -59,4 +59,3 @@ sr.onresult = (event) => {
         aViewPosts.click();
     }
 };
-
